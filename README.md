@@ -1,7 +1,7 @@
 
 
-<h1>Testing</h1>
-<p> I’m @NayLin</p>
+<h1>Welcome to my page</h1>
+<h2> I’m @NayLin</h2>
 
 <p> naylin.ntu@gmail.com </p>  
 
